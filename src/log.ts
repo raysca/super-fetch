@@ -1,4 +1,4 @@
-import { Fetch } from "../type";
+type Fetch = (...args: any) => Promise<Response>;
 
 interface Logger {
     log: (message: string) => void;
