@@ -1,4 +1,4 @@
-import { describe, it, mock, spyOn, expect, beforeAll } from "bun:test";
+import { describe, it, mock, expect, beforeAll } from "bun:test";
 import { withLogger } from "./log";
 
 const mockFetch = mock(() => {
