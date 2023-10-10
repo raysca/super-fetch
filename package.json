@@ -1,6 +1,6 @@
 {
   "name": "super-fetch",
-  "module": "index.ts",
+  "module": "index.js",
   "type": "module",
   "devDependencies": {
     "bun-types": "latest"

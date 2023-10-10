@@ -1,4 +1,4 @@
-import { Fetch } from "./type";
+import { Fetch } from "../type";
 
 interface Logger {
     log: (message: string) => void;
