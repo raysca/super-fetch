@@ -1,8 +1,8 @@
 type Fetch = (...args: any) => Promise<Response>;
 
 interface RetryOptions {
-    retryCount: number;
-    retryDelay?: number;
+    retryCount: number
+    retryDelay?: number
     retryOn?: number[]
 }
 

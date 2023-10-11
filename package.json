@@ -1,7 +1,6 @@
 {
-  "name": "super-fetch",
+  "name": "@rayscaa/super-fetch",
   "module": "index.js",
-  "type": "module",
   "devDependencies": {
     "bun-types": "latest"
   },
